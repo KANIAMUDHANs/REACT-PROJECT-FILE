@@ -1,0 +1,206 @@
+.ho
+{
+text-align: center;
+background-color: rgb(51, 51, 209);
+font-size: 55px;
+}
+/*  */
+.bg0{
+width: 30%;
+float: left;    
+}
+/*  */
+.bg01{
+    width: 29%;
+    float: right;    
+    }
+
+/*  */
+.box1{
+    background-color: rgb(0, 0, 0);
+    width: 500px;
+    height: 790px;
+    margin-left: 35%;
+    box-shadow: 0px 10px 10px 8px rgb(134, 163, 134);
+}
+.bg1{
+    width: 480px;
+    height: 600px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.p1{
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+/*  */
+.box2{
+    background-color: rgb(0, 0, 0);
+    width: 500px;
+    height: 694px;
+    margin-left: 35%;
+    box-shadow: 0px 10px 10px 8px rgb(182, 146, 109);
+}
+.bg2{
+    width: 480px;
+    height: 600px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.p1{
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/*  */
+.box3{
+    background-color: rgb(0, 0, 0);
+    width: 700px;
+    height: 543px;
+    margin-left: 28%;
+    box-shadow: 0px 10px 10px 8px rgb(11, 91, 36);
+}
+.bg3{
+    width: 680px;
+    height: 400px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.h4{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.p1{
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+/*  */
+.box4{
+    background-color: rgb(0, 0, 0);
+    width: 500px;
+    height: 713px;
+    margin-left: 35%;
+    box-shadow: 0px 10px 10px 8px rgb(239, 75, 67);
+}
+.bg4{
+    width: 480px;
+    height: 600px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.p1{
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+/*  */
+.box5{
+    background-color: rgb(0, 0, 0);
+    width: 500px;
+    height: 605px;
+    margin-left: 35%;
+    box-shadow: 0px 10px 10px 8px rgb(240, 226, 25);
+}
+.bg5{
+    width: 480px;
+    height: 500px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.h4{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.p1{
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+/*  */
+
+.box6{
+    background-color: rgb(0, 0, 0);
+    width: 500px;
+    height: 605px;
+    margin-left: 35%;
+    box-shadow: 0px 10px 10px 8px rgb(42, 226, 229);
+}
+.bg6{
+    width: 480px;
+    height: 500px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.h4{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.p1{
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+/*  */
+
+.box7{
+    background-color: rgb(0, 0, 0);
+    width: 500px;
+    height: 605px;
+    margin-left: 35%;
+    box-shadow: 0px 10px 10px 8px rgb(229, 42, 223);
+}
+.bg7{
+    width: 480px;
+    height: 500px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.h4{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.p1{
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/*  */
+
+.box8{
+    background-color: rgb(0, 0, 0);
+    width: 500px;
+    height: 605px;
+    margin-left: 35%;
+    box-shadow: 0px 10px 10px 8px rgb(107, 19, 189);
+}
+.bg8{
+    width: 480px;
+    height: 500px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.h4{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.p1{
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.ji {
+    background: #1b1313;
+    text-align: center;
+    padding: 1rem;
+    position: static;
+    width: 100%;
+}
